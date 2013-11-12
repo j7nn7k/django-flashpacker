@@ -15,3 +15,6 @@ install:
 
 script:
   - python flashpacker/runtests/runtests.py
+
+notifications:
+  email: false
