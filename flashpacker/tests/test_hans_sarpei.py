@@ -1,6 +1,6 @@
 from __future__ import unicode_literals
 
-from django.utils.unittest.case import TestCase
+from django.test import TestCase
 
 
 class FileSerializerTests(TestCase):
