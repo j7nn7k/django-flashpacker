@@ -1,4 +1,6 @@
 # Django settings for testproject project.
+from __future__ import unicode_literals
+
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
